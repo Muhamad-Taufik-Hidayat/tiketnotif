@@ -1,0 +1,21 @@
+admin dengan username dan password masing-masing
+bakal masuk kehalaman yang menampilkan isi notif dari masing-masing
+
+berbeda dengan super admin,
+
+Dia menampilkan seluruh notifikasi yang pernah dibuat dihalaman all notifikasi
+dan menampilkan tiap tiap dashboard dari masing-masing admin
+
+tetapi jika super admin ingin menambahkan create notifikasi di masing-masing
+dashbard admin, maka notifikasi itu dikirim di all notifikasi yang super admin
+buat
+
+Tanggal dan Jam diganti waktu dengan type datetime
+
+buat row baru = Nama aplikasi, id_aplikasi sama server key, image
+eg :
+-baraya
+-daytrans dll      (kaya buat kategori lah) [] On progress
+
+
+posts diganti notif (diganti namanya) [v] done
